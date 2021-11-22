@@ -1,13 +1,13 @@
 # Youtube-clone
 
 # Screenshots
-![youtubeClone1](https://user-images.githubusercontent.com/70272985/142850033-9a5cc64b-e025-4804-9096-bd408688ec66.png)                                          ![youtubeClone2](https://user-images.githubusercontent.com/70272985/142850042-a5397cf1-2d40-4252-acdb-a4e4977c0cc7.png)
+![youtubeClone1](https://user-images.githubusercontent.com/70272985/142850033-9a5cc64b-e025-4804-9096-bd408688ec66.png)                                        
 
 
 /*****************************************************************************************************************************/
 
 
-
+                      ![youtubeClone2](https://user-images.githubusercontent.com/70272985/142850042-a5397cf1-2d40-4252-acdb-a4e4977c0cc7.png)
 
 
 
@@ -19,7 +19,7 @@
 
 /*****************************************************************************************************************************/
 
-![youtubeClone4](https://user-images.githubusercontent.com/70272985/142850056-96879f69-0f03-496b-9879-910471d61319.png)
+                             ![youtubeClone4](https://user-images.githubusercontent.com/70272985/142850056-96879f69-0f03-496b-9879-910471d61319.png)
 
 
 
@@ -30,7 +30,7 @@
 
 /*****************************************************************************************************************************/
 
-![youtubeClone6](https://user-images.githubusercontent.com/70272985/142850073-8a98bb0b-68e0-4341-ae17-f3b52f9f44c6.png)
+                                 ![youtubeClone6](https://user-images.githubusercontent.com/70272985/142850073-8a98bb0b-68e0-4341-ae17-f3b52f9f44c6.png)
 
 /*****************************************************************************************************************************/
 
